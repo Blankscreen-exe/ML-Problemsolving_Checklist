@@ -11,7 +11,7 @@
   - [ ] Create a mind map
   - [ ] Create a Data flow/Data pipeline diagram
   - [ ] Share what you understood with stakeholders and validate it
-  - [ ] Ask: What does the solution look like?
+  - [ ] Ask: What does the solution look like? How should it work?
   - [ ] Design/plan your solution:
     - [ ] Select a performance measure
     - [ ] Select model(s)
@@ -19,5 +19,13 @@
   - [ ] Share what you understood with stakeholders and validate it
 
 ## 2. Work With Data
-  - [ ] Explore the data (EDA)
+  - [ ] Explore the data (EDA):
+    - [ ] Metric analysis
+    - [ ] Graphical analysis
+    - [ ] Look for correlations
+    - [ ] Experiment with attributes
   - [ ] List out potential problems you will face while implementing upcoming phases
+  - [ ] Ask supervisor or project owner to fulfill the data which project needs or find alternatives (if applicable) 
+  - [ ] Clean the data
+## 3. Prepare For ML Processing
+  - [ ] 
