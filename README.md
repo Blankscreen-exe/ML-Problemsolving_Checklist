@@ -19,6 +19,7 @@
   - [ ] Share what you understood with stakeholders and validate it
 
 ## 2. Work With Data
+  - [ ] Setup your environment
   - [ ] Explore the data (EDA):
     - [ ] Metric analysis
     - [ ] Graphical analysis
@@ -26,6 +27,13 @@
     - [ ] Experiment with attributes
   - [ ] List out potential problems you will face while implementing upcoming phases
   - [ ] Ask supervisor or project owner to fulfill the data which project needs or find alternatives (if applicable) 
-  - [ ] Clean the data
+  - [ ] Wrangle the Data
+    - [ ] Write your transformers (if needed)
+    - [ ] Perform feature scaling where needed
+    - [ ] Finish by developing a pipeline
 ## 3. Prepare For ML Processing
+  - [ ] Select models to train
+  - [ ] Train each selected model with training set
+  - [ ] Test each model with test set
+  - [ ] Evaluate and compare model performances ( cross val;idation )
   - [ ] 
