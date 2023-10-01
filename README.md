@@ -36,4 +36,11 @@
   - [ ] Train each selected model with training set
   - [ ] Test each model with test set
   - [ ] Evaluate and compare model performances ( cross val;idation )
-  - [ ] 
+  - [ ] Cull the _not-so-performant_ models
+  - [ ] Fine-tune the remaining models
+  - [ ] Pick your best model
+  - [ ] Test your final model (_with tuning applied_) against Test set
+## 4. Send it out
+  - [ ] Export your finished product
+  - [ ] Upload it somewhere safe
+  - [ ] Make a backup copy
