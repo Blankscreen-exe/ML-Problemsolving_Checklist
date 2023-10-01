@@ -15,7 +15,7 @@
   - [ ] Design/plan your solution:
     - [ ] Select a performance measure
     - [ ] Select model(s)
-    - [ ] Select 
+    - [ ] Double check assumptions
   - [ ] Share what you understood with stakeholders and validate it
 ## 2. Getting Things Ready For Action
   - [ ] Setup your environment
