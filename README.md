@@ -2,6 +2,14 @@
 
 > This repo is part of a blog post that I have written [here](/)
 
+  **TL;DR**
+  
+Remember that solving ML problems requires a certain level of creativity. Although, using this checklist can help you, but you might get a better outcome if you try to change or bend the checklist a bit. 
+
+Since there is no set-in-stone rule to do this, you can even derive your own version of the checklist yourself. 
+
+Don't be afraid to take risks here. It will contribute much more to your learning than you think.
+
 # The Checklist
 
 ## 1. Get A Footing
