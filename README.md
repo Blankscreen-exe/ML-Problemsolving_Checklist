@@ -17,8 +17,7 @@
     - [ ] Select model(s)
     - [ ] Select 
   - [ ] Share what you understood with stakeholders and validate it
-
-## 2. Work With Data
+## 2. Getting Things Ready For Action
   - [ ] Setup your environment
   - [ ] Explore the data (EDA):
     - [ ] Metric analysis
@@ -31,7 +30,7 @@
     - [ ] Write your transformers (if needed)
     - [ ] Perform feature scaling where needed
     - [ ] Finish by developing a pipeline
-## 3. Prepare For ML Processing
+## 3. Machine Learning Processing
   - [ ] Select models to train
   - [ ] Train each selected model with training set
   - [ ] Test each model with test set
