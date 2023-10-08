@@ -1,6 +1,6 @@
 # Machine Learning Problem-Solving Checklist
 
-> 📌 This repo is part of a blog post that I have written [here](https://medium.com/@hammad.ai/machine-learning-problem-solving-checklist-e5584793cc47)
+> 📌 This repo is part of a blog post that I have written **[here](https://medium.com/@hammad.ai/machine-learning-problem-solving-checklist-e5584793cc47)**
 
 **TL;DR**
 
