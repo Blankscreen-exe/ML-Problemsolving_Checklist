@@ -42,7 +42,7 @@ Don't be afraid to take risks here. It will contribute much more to your learnin
   - [ ] Select models to train
   - [ ] Train each selected model with training set
   - [ ] Test each model with test set
-  - [ ] Evaluate and compare model performances ( cross val;idation )
+  - [ ] Evaluate and compare model performances ( cross validation )
   - [ ] Cull the _not-so-performant_ models
   - [ ] Fine-tune the remaining models
   - [ ] Pick your best model
