@@ -1,6 +1,6 @@
 > 📌 A sample business requirement document from XYZ company. This document indicates the need to apply and effectively use Machine Learning models to monetize an existing chatting platform.
 >
-> This document was written as an asset to a blog that I have written [here](https://medium.com/@hammad.ai/machine-learning-problem-solving-checklist-e5584793cc47)
+> This document was written as an asset to a blog that I have written **[here](https://medium.com/@hammad.ai/machine-learning-problem-solving-checklist-e5584793cc47)**
 
 # Business Requirement: Chat Monetization System
 
