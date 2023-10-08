@@ -51,6 +51,7 @@ Don't be afraid to take risks here. It will contribute much more to your learnin
   - [ ] Export your finished product
   - [ ] Upload it somewhere safe
   - [ ] Make a backup copy
+  - [ ] ... (do whatever your job description says at this point)
 
 # Associated Resources
 - [Sample business requirements document for ML project](./sample_business_requirement_for_ml_project.md)
