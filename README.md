@@ -1,6 +1,6 @@
 # Machine Learning Problem-Solving Checklist
 
-> This repo is part of a blog post that I have written [here](/)
+> 📌 This repo is part of a blog post that I have written [here](/)
 
   **TL;DR**
   
@@ -51,3 +51,6 @@ Don't be afraid to take risks here. It will contribute much more to your learnin
   - [ ] Export your finished product
   - [ ] Upload it somewhere safe
   - [ ] Make a backup copy
+
+# Associated Resources
+- [Sample business requirements document for ML project](./sample_business_requirement_for_ml_project.md)
