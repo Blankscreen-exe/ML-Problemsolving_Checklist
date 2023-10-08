@@ -1,3 +1,7 @@
+> 📌 A sample business requirement document from XYZ company. This document indicates the need to apply and effectively use Machine Learning models to monetize an existing chatting platform.
+>
+> This document was written as an asset to a blog that I have written [here]()
+
 # Business Requirement: Chat Monetization System
 
 ## Background
@@ -69,6 +73,3 @@ A budget has been allocated for hiring machine learning experts, data engineers,
 - Marketing Team
 - Customer Support Team
 - Legal and Compliance Team
-
-
-> 📌 This business requirement was written as an asset to a blog article that I have published [here]()
